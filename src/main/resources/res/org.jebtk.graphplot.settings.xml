@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<!-- The size of the heatmap square in pixels -->
+	<setting name="graphplot.heatmap.width" value="20" />
+	
+	<!-- The height of each color bar -->
+	<setting name="graphplot.heatmap.colorbar.height" value="10" />
+	
+	<!-- The gap between the color bar and the heatmap -->
+	<setting name="graphplot.heatmap.colorbar.offset" value="10" />
+	
+	<!-- The width of the block containing each box whisker plot in pixels -->
+	<setting name="graphplot.boxwhiskers.width" value="100" />
+	
+	<!-- The gap between the color bar and the heatmap -->
+	<setting name="graphplot.cluster.tree.gap" value="10" />
+	<setting name="graphplot.cluster.tree.groups.gap" value="10" />
+	
+	<setting name="graphplot.plot.char-width" value="14" />
+	
+	<setting name="graphplot.plot.block-size" value="20" />
+	<setting name="graphplot.plot.group.block-size" value="16" />
+	
+	<setting name="graphplot.plot.color-bar-width" value="300" />
+	<setting name="graphplot.plot.color-bar-height" value="80" />
+	
+	<setting name="graphplot.plot.field-gap" value="10" />
+</settings>
